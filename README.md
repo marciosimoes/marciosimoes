@@ -15,10 +15,10 @@ Two apps in Python for the challenge of the course Topics in Data Science Applie
 
 ➤ <b>Supervised projects alongside the Lecturer at IMECC Mathematics Institute</b>
 - Convolutional neural networks and support vector machines for the classification of medical images:<br>
-https://bit.ly/3DBIKdg
+https://github.com/marciosimoes/ProjetosUnicamp/blob/master/ms777/Imagens_médicas.ipynb
 
 - A-weighted ensemble application in the classification of texture images<br>
-https://bit.ly/3E5NKIs
+https://github.com/marciosimoes/ProjetosUnicamp/blob/master/ms877/Imagens_médicas%20v2.ipynb
 <br>
 
 ➤ <b>Visagio Data Science Hackathon:</b><br>
