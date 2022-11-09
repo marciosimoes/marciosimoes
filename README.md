@@ -17,7 +17,7 @@ Two apps in Python for the challenge of the course Topics in Data Science Applie
 - Convolutional neural networks and support vector machines for the classification of medical images:<br>
 https://github.com/marciosimoes/ProjetosUnicamp/blob/master/ms777/Imagens_médicas.ipynb
 
-- A-weighted ensemble application in the classification of texture images<br>
+- A-weighted ensemble application in the classification of texture images:<br>
 https://github.com/marciosimoes/ProjetosUnicamp/blob/master/ms877/Imagens_médicas%20v2.ipynb
 <br>
 
