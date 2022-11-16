@@ -11,15 +11,10 @@ Visit my website: https://marciosimoes.com
 
 ➤ <b>Obtains news related to Stock Exchange assets</b><br>
 Two apps in Python for the challenge of the course Topics in Data Science Applied to Business:<br>
-[![Projeto MS902](https://github-readme-stats.vercel.app/api/pin/?username=marciosimoes&repo=projeto-ms902&hide_border=true&icon_color=19b08a&text_color=c9d1d9&bg_color=0d1117)](https://github.com/marciosimoes/projeto-ms902)
+[![Projeto MS902](https://github-readme-stats.vercel.app/api/pin/?username=marciosimoes&repo=final-project-ms902&hide_border=true&icon_color=19b08a&text_color=c9d1d9&bg_color=0d1117)](https://github.com/marciosimoes/final-project-ms902)
 
-➤ <b>Supervised projects alongside the Lecturer at IMECC Mathematics Institute</b>
-- Convolutional neural networks and support vector machines for the classification of medical images:<br>
-https://github.com/marciosimoes/ProjetosUnicamp/blob/master/ms777/Imagens_médicas.ipynb
-
-- A-weighted ensemble application in the classification of texture images:<br>
-https://github.com/marciosimoes/ProjetosUnicamp/blob/master/ms877/Imagens_médicas%20v2.ipynb
-<br>
+➤ <b>Supervised projects alongside the Lecturer at IMECC Mathematics Institute</b><br>
+[![Medical Image Analysis](https://github-readme-stats.vercel.app/api/pin/?username=marciosimoes&repo=medical-image-analysis&hide_border=true&icon_color=19b08a&text_color=c9d1d9&bg_color=0d1117)](https://github.com/marciosimoes/medical-image-analysis)
 
 ➤ <b>Visagio Data Science Hackathon:</b><br>
 [![Hackathon Visagio](https://github-readme-stats.vercel.app/api/pin/?username=marciosimoes&repo=hackathon-visagio&hide_border=true&icon_color=19b08a&text_color=c9d1d9&bg_color=0d1117)](https://github.com/marciosimoes/hackathon-visagio)
