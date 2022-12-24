@@ -1,6 +1,6 @@
 ## Hi there <I'm Marcio /> 👋
 
-A Software Developer holding a BSc in Applied Mathematics from one of the most renowned universities in Brazil and with experience in mathematics, analytics, data manipulation, scripts, and software development.
+A Software Developer holding a BSc in Applied Mathematics from one of the most renowned universities in Brazil and with experience in web development, mathematics, data manipulation and modeling.
 
 I'm actively looking for jobs :)
 
@@ -47,9 +47,10 @@ Developed ETEC Social, a social network of my school where was use Laravel PHP:<
 ## 📱 Follow me!
 
 <div> 
-  <a href="https://instagram.com/98cliques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-19b08a?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marciorsimoes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-19b08a?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marciorsimoes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-19b08a?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:eu@marciosimoes.com"><img src="https://img.shields.io/badge/Gmail-19b08a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/98cliques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-19b08a?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/MatematicoDev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-19b08a?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 <br />
