@@ -2,8 +2,6 @@
 
 I am a Developer holding a BSc in Applied Mathematics from one of the most renowned universities in Brazil and with experience in web development, mathematics, data manipulation and modeling.
 
-I'm actively looking for jobs :)
-
 Visit my website: https://marciosimoes.com
 <br>
 
