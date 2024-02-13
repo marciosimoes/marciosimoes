@@ -5,8 +5,8 @@ I am a Data Engineer & BSc in Applied and Computational Mathematics from Univers
 My website: https://marciosimoes.com
 <br><br>
 Kaggle - <a href="https://www.kaggle.com/marciosimoes" target="_blank">https://www.kaggle.com/marciosimoes</a><br>
-Learn Microsoft - <a href="https://learn.microsoft.com/pt-br/users/marciosimoes" target="_blank">https://learn.microsoft.com/pt-br/users/marciosimoes</a><br>
-LeetCode - <a href="https://leetcode.com/marciosimoes" target="_blank">https://leetcode.com/marciosimoes</a><br>
+Learn Microsoft - <a href="https://learn.microsoft.com/pt-br/users/marciojr" target="_blank">https://learn.microsoft.com/pt-br/users/marciojr</a><br>
+LeetCode - <a href="https://leetcode.com/marciojr" target="_blank">https://leetcode.com/marciojr</a><br>
 
 ##
 
