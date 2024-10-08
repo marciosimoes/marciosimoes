@@ -7,7 +7,7 @@ My website: https://marciosimoes.com
 LeetCode - <a href="https://leetcode.com/marciojr" target="_blank">https://leetcode.com/marciojr</a><br>
 Kaggle - <a href="https://www.kaggle.com/marciosimoes" target="_blank">https://www.kaggle.com/marciosimoes</a><br>
 Google Dev - <a href="https://g.dev/marciojr" target="_blank">https://g.dev/marciojr</a><br>
-Learn Microsoft - <a href="https://learn.microsoft.com/pt-br/users/marciojr" target="_blank">https://learn.microsoft.com/pt-br/users/marciojr</a><br>
+Learn Microsoft - <a href="https://learn.microsoft.com/users/marciojr" target="_blank">https://learn.microsoft.com/users/marciojr/</a><br>
 
 ##
 
