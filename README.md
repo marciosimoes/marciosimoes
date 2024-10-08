@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there <I'm Marcio /> 👋
 
-<!--
-**marciosimoes/marciosimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Engineer & BSc in Applied and Computational Mathematics from University of Campinas (UNICAMP) in Brazil and an Associate Degree in Web Development with experience in data pipelines, data manipulation and modeling, mathematics, analytics and software development.
 
-Here are some ideas to get you started:
+My website: https://marciosimoes.com
+<br><br>
+LeetCode - <a href="https://leetcode.com/marciojr" target="_blank">https://leetcode.com/marciojr</a><br>
+Kaggle - <a href="https://www.kaggle.com/marciosimoes" target="_blank">https://www.kaggle.com/marciosimoes</a><br>
+Google Dev - <a href="https://g.dev/marciojr" target="_blank">https://g.dev/marciojr</a><br>
+Learn Microsoft - <a href="https://learn.microsoft.com/pt-br/users/marciojr" target="_blank">https://learn.microsoft.com/pt-br/users/marciojr</a><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marciosimoes&show_icons=true&count_private=true&hide_border=true&title_color=19b08a&icon_color=19b08a&text_color=c9d1d9&bg_color=0d1117">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosimoes&hide_border=true&layout=compact&title_color=19b08a&icon_color=19b08a&text_color=c9d1d9&bg_color=0d1117">
+</div>
+
+## 📱 Follow me!
+
+<div> 
+  <a href = "mailto:contato@marciosimoes.com"><img src="https://img.shields.io/badge/Gmail-19b08a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://marcio.in/linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-19b08a?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://marcio.in/instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-19b08a?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<br />
+<br />
+<div align="right">Thank you!</div>
+<hr />
