@@ -1,8 +1,6 @@
 ## Hi there <I'm Marcio /> 👋
 
 I am a Data Engineer & BSc in Applied and Computational Mathematics from University of Campinas (UNICAMP) in Brazil and an Associate Degree in Web Development with experience in data pipelines, data manipulation and modeling, mathematics and statistics, and software development.
-
-My website: https://marciosimoes.com
 <br><br>
 LeetCode - <a href="https://leetcode.com/marciojr" target="_blank">https://leetcode.com/marciojr</a><br>
 Kaggle - <a href="https://www.kaggle.com/marciosimoes" target="_blank">https://www.kaggle.com/marciosimoes</a><br>
