@@ -16,7 +16,7 @@ Learn Microsoft - <a href="https://learn.microsoft.com/users/marciojr" target="_
 ## 📱 Follow me!
 
 <div> 
-  <a href = "mailto:contato@marciosimoes.com"><img src="https://img.shields.io/badge/Gmail-19b08a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hey@marciosimoes.com"><img src="https://img.shields.io/badge/Gmail-19b08a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://marcio.in/linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-19b08a?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://marcio.in/instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-19b08a?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
