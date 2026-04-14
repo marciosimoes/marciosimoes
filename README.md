@@ -8,10 +8,11 @@ Learn Microsoft - <a href="https://learn.microsoft.com/users/marciojr" target="_
 
 ## 📱 Follow me!
 
+> ⚠️ My GitHub has changed. Use the link below to access my new profile.
+
 <a href="https://github.com/mar-junior" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-New%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="New GitHub">
 </a>
-<meta http-equiv="refresh" content="0; URL='https://github.com/mar-junior'"/>
 
 <br />
 <br />
