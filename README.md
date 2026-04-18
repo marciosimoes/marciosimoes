@@ -9,8 +9,3 @@ GitHub - <a href="https://github.com/mar-junior" target="_blank">https://github.
 LeetCode - <a href="https://leetcode.com/marciojr" target="_blank">https://leetcode.com/marciojr</a><br>
 Kaggle - <a href="https://www.kaggle.com/marciosimoes" target="_blank">https://www.kaggle.com/marciosimoes</a><br>
 Learn Microsoft - <a href="https://learn.microsoft.com/users/marciojr" target="_blank">https://learn.microsoft.com/users/marciojr/</a><br>
-
-<br />
-<br />
-<div align="right">Thank you!</div>
-<hr />
