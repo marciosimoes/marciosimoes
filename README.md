@@ -1,4 +1,4 @@
-> ⚠️ My GitHub has changed. Use the link below to access my new profile.
+> ⚠️ I lost access to my account settings and my GitHub has changed. Use the link below to access my new profile.
 <a href="https://github.com/mar-junior" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-New%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="New GitHub">
 </a>
